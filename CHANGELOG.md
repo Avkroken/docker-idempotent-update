@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.2](https://github.com/Avkroken/Docker-idempotent-update/compare/v3.3.1...v3.3.2) (2026-09-05)
+
+
+### Documentation
+
+* clarify repository-specific governance ([#421](https://github.com/Avkroken/Docker-idempotent-update/issues/421)) ([7a6754c](https://github.com/Avkroken/Docker-idempotent-update/commit/7a6754cf15be8f3ca15e676905d2b53467bf47b5))
+
 ## [3.3.1](https://github.com/Avkroken/Docker-idempotent-update/compare/v3.3.0...v3.3.1) (2026-09-05)
 
 
